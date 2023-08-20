@@ -5,7 +5,7 @@ This is code I created to learn Go and may not be practical.
 ## Install
 
 ```
-go install github.com/shinshin86/go-delete-exif
+go install github.com/shinshin86/go-delete-exif@latest
 ```
 
 ## Usage
